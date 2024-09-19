@@ -1,7 +1,7 @@
 <h1>Canteen Database Management system and automation</h1>
 
 <h2>Overview:</h2>
-The **Canteen Database Management** system and automation is a SQL-based project that simplifies and organizes the management of canteen operations. This system allows canteen staff to track and manage food items, orders, customers, payments efficiently and food rating. The database ensures smooth transactions and an organized inventory, providing real-time insights into day-to-day operations.
+The *Canteen Database Management* system and automation is a SQL-based project that simplifies and organizes the management of canteen operations. This system allows canteen staff to track and manage food items, orders, customers, payments efficiently and food rating. The database ensures smooth transactions and an organized inventory, providing real-time insights into day-to-day operations.
 
 This project is designed as a back-end solution for canteen management, focusing on creating a robust and scalable database using SQL for efficient data storage, retrieval, and management.
 
