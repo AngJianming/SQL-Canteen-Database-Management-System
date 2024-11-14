@@ -1,8 +1,8 @@
 -- Create Database
-CREATE DATABASE APUCafeFoodOrderingSystem;
+CREATE DATABASE Canteen_Ordering_Management_System;
 
 -- Use Database
-USE APUCafeFoodOrderingSystem;
+USE Canteen_Ordering_Management_System;
 
 -- Create Menu Table
 CREATE TABLE Menu (
@@ -154,7 +154,7 @@ INSERT INTO [Member] VALUES
 ('MB055011', 'Saashienie Nair', 'Student', 18, 'Female', 'MB055011@mail.apu.edu.my', '+601134832577'),
 ('MB046720', 'Austin Butler', 'Student', 19, 'Male' ,'MB046720@mail.apu.edu.my', '+60198736701'),
 ('MB034971', 'Florence Pugh', 'Student', 20, 'Female', 'MB034971@mail.apu.edu.my',' +601159458366'),
-('MB047390', 'Timothée Chalame', 'Student', 19, 'Male', 'MB047390@mail.apu.edu.my', '+6059205252'),
+('MB047390', 'TimothÃ©e Chalame', 'Student', 19, 'Male', 'MB047390@mail.apu.edu.my', '+6059205252'),
 ('MB042240', 'Jack Black', 'Student', 19, 'Male', 'MB042240@mail.apu.edu.my', '+60129805875'),
 ('MB039120', 'Ryan Reynolds', 'Student', 20, 'Male', 'MB039120@mail.apu.edu.my', '+6094744542'),
 ('MB896671', 'Taylor Swift', 'Lecturer', 34, 'Female', 'MB896671@mail.apu.edu.my', '+6037866251'),
